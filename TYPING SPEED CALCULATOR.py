@@ -27,7 +27,8 @@ def speed_time(initial_time,end_time,userinput):
 
 #***********Start Code***********
 while True:
-    check = input("Ready to test : yes / no : ")
+    # check = input("Ready to test : yes / no : ")
+    check = "yes";
     if check=="yes":
 
 #*********First code************
