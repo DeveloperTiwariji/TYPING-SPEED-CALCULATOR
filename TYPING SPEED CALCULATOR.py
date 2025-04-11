@@ -54,4 +54,4 @@
 #         print("Wrong input")
 
 
-print("Radhe Radhe Sabhi ko")
+print("Radhe Radhe")
