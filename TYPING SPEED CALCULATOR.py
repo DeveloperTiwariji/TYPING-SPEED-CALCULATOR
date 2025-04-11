@@ -41,12 +41,12 @@ while True:
      print()
      initial_time = time()
      # testinput=input(" Enter : ")    #************User input***************
-        testinput = 5;
+        # testinput = 5;
      end_time = time()
 
 
-     print("Speed : ",speed_time(initial_time,end_time,testinput)," w/sec")
-     print("Error : ",mistake(test1,testinput))
+     # print("Speed : ",speed_time(initial_time,end_time,testinput)," w/sec")
+     # print("Error : ",mistake(test1,testinput))
     elif check=="no":
         print("Thank you")
         break
