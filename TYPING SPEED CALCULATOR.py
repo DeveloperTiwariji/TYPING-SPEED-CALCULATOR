@@ -40,7 +40,8 @@ while True:
      print()
      print()
      initial_time = time()
-     testinput=input(" Enter : ")    #************User input***************
+     # testinput=input(" Enter : ")    #************User input***************
+        testinput = 5;
      end_time = time()
 
 
